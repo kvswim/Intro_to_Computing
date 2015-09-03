@@ -1,0 +1,26 @@
+Q1
+(command) (options) (filenames)
+Q2
+man less
+Q3
+lpr
+Q4
+cat-fewer characters to type
+Q5
+Kyle-75 121 108 101
+01001011 01111001 01101100 01100101
+Q6
+wq save and exit
+:q quit without saving
+:q! force quit without saving 
+a append to right of cursor
+i insert to left
+o add a new line below current
+O add a new line above urrent
+U undo changes to current line
+3db delete previous 3 words
+4cw deletes next 4 words
+dd delete current line
+nG go to line n
+Q7
+

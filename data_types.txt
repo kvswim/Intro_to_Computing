@@ -1,0 +1,6 @@
+Example	Data type
+1234	integer
+3.1416	floating point or real
+abc123	string (a sequence of characters)
+1 or 0	boolean
+

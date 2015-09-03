@@ -1,0 +1,22 @@
+#kverdey1:20150901:computing_timeline.tx:Timeline of computer history for intro to computing
+#format year:topic:description:reference/source
+19460215: ENIAC: the first computer, is introduced: wikipedia.org
+19031228: John von Neumann: pioneer of many primitive computer concepts: wikipedia.org
+19040000: Vacuum tube: device that controls current, replaced by transistor: wikipedia.org
+19470000: Transistor: semiconductor device used to amplify and switch power: wikipedia.org
+19490000: IC: set of electronic circuits on a single chip: wikipedia.org
+19680000: Microprocessor: CPU on a single IC: wikipedia.org
+19600000: Structured programming: Programming guidelines based on subroutines: wikipedia.org
+19231108: Jack Kilby: the father of the IC: wikipedia.org
+19271212: Robert Noyce: Co-father of IC, cofounded Fairchild and Intel:wikipedia.org
+19430000: Plankalkul: "Plan Calculus" first high level non von Neumann programming language:wikipedia.org
+19120623: Alan Turing: British codebreaker and one of the founders of CS, created the Turing machine model:wikipedia.org
+19500811: Steve Wozniak, aka "The Woz": Cofounder of Apple. Designed the Apple I and II:wikipedia.org
+19970000: POSIX: Portable Operating System Interface, standards set for compatibility between UNIX-like operating systems: wikipedia.org
+19550224: Steve Jobs: Cofounded Apple Inc. Known for stealing good ideas of others and then marketing the s@#t out of it as a new feature: wikipedia.org
+19410909: Dennis Ritchie: Father of C and UNIX :wikipedia.org
+19551028: Bill Gates: Founder of Microsoft. One of the richest men in the world: wikipedia.org
+19690000: UNIX: Family of operating systems created by Dennis Ritchie. Includes Mac OS X and Linux systems.: wikipedia.org
+19500000: Assembly language: low level programming language, usually similar to microprocessor machine code: wikipedia.org
+19991200: Blue Gene: IBM designed supercomputer family, systems of which consistently are included in the TOP500 list:wikipedia.org
+19530316: Richard Stallman: Founder of the GNU Project, and Free Software Foundation. Overall a righteous dude.:wikipedia.org

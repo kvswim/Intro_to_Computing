@@ -1,0 +1,13 @@
+#jhed:20150901:commands_unix.txt:reference commands in bash shell
+#usage command:definition:last usage:notes
+date:display or set date and time:date
+cal:displays a clendar:cal:
+man:display manual pages: man:
+cat:concatenate files and display/print: cat:
+more: view one screenful of text at a time: more:
+less: inversion of more, allows for reverse movement: less: 
+head: output the first 10 lines of a file: head: 
+tail: output the last part of a file: tail: 
+lp: send files to a printer: lp:
+ps: view running processes: ps: ps aux:
+
