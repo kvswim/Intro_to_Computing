@@ -1,0 +1,44 @@
+Q1
+ls /bin/*sh
+
+Q2
+cd CODE
+mkdir UNIX
+
+
+Q3
+cp /CODE /home
+
+Q4
+cd /CODE/UNIX
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q9
+
+Q10
+
+Q11
+
+Q12
+echo $((1+2+3))
+
+
+Q13
+echo $((3*6))
+
+Q14
+
+Q15
+
+Q16
+
+Q17
+
+Q18
