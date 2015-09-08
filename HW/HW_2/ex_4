@@ -1,0 +1,35 @@
+#kverdey1:20150903:ex_4:homework 2
+Q1
+vi ex4.bash
+i
+#kverdey1:20150903:ex_4.bash:homework 2
+echo "Hi, my name is Kyle"
+cd
+pwd
+echo "Now I am in my home directory"
+[esc]
+:x
+
+Q2
+source ex4.bash
+
+Q3
+cat ex4.bash commands.unix.txt
+Printed both files to terminal
+
+Q4
+Binary
+
+Q5
+cat
+cp
+rm
+ls
+
+Q6
+mkdir HW_2
+
+Q7
+cp /kverdey1/ex_4 /kverdey1/HW_2
+cp/kverdey1/ex4.bash /kverdey1/HW_2
+

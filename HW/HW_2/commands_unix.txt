@@ -1,0 +1,28 @@
+#kverdey1:20150901:commands_unix.txt:reference commands in bash shell
+#usage command:definition:last usage:notes
+date:display or set date and time:date
+cal:displays a clendar:cal:
+man:display manual pages: man:
+cat:concatenate files and display/print: cat:
+more: view one screenful of text at a time: more:
+less: inversion of more, allows for reverse movement: less: 
+head: output the first 10 lines of a file: head: 
+tail: output the last part of a file: tail: 
+lp: send files to a printer: lp:
+ps: view running processes: ps: ps aux:
+ls: list files in current working directory: ls:
+hexdump: view executable in hex: hexdump:
+pwd: print working directory
+vi: text editor
+source: run bash script
+echo: echo line into terminal
+mkdir: make directory
+rm: remove
+mv: move
+cp: copy
+kill: end process
+env: list environmental setup
+export: exports variable to environment of all child processes in shell
+alias: rename command
+find: search
+

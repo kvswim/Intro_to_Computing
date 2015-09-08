@@ -1,0 +1,29 @@
+#kverdey1:ex_6:hw 2 ex_6
+Q1
+cd HW/HW_2
+
+Q2
+A)
+mkdir lots_of_directories
+cd lots_of_directories
+B)
+mkdir my_dir_{1..10}
+C)
+touch /my_dir{1..10}/ file{A..D}
+D)
+ls -r /lots_of_directories/
+E)
+find /lots_of_directories/ file_A
+F)
+cd -
+
+Q3
+CODE
+
+Q4
+
+Q5
+
+Q6
+
+

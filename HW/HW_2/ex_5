@@ -1,0 +1,57 @@
+#kverdey1:ex_5:homework 2 ex5
+Q1
+ls /bin/*sh
+
+Q2
+mkdir /CODE/UNIX
+
+Q3
+cp -r /(example)/ ~/
+
+Q4
+cd /(example)
+
+Q5
+ls 
+
+Q6
+ls
+
+Q7
+ls 
+
+Q8
+var1=5
+
+Q9
+var2=$var1
+
+Q10
+echo $var2
+
+Q11
+echo $((v1+$v2))
+
+Q12
+echo $((1+2+3))
+
+Q13
+echo $((3*6))
+
+Q14
+name="Kyle"
+
+Q15
+echo My name is $name
+
+Q16
+mv ex_5 /HW_2/
+mv ex_4 /HW_2/
+mv ex4.bash /HW_2/
+
+Q17
+mkdir HW
+
+Q18
+mv -r /HW_1/ /HW/HW_1/
+mv -r /HW_2/ /HW/HW_2/
