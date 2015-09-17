@@ -1,0 +1,28 @@
+#kverdey1:ex_7.txt:exercise 7 answers
+Q1
+mkdir HW_3
+HW HW_3
+
+Q2
+
+Q3
+source backup.bash
+
+Q4
+ps
+(the answer is the open shell)
+
+Q5
+ls -l
+
+Q6
+Owner read write execute: chmod 700 backup.bash
+Owner execute only: chmod 100 backup.bash
+
+Q7
+Group write only: chmod 020 backup.bash
+Group read write execute: chmod 070 backup.bash
+
+Q8
+wc -l backup.bash
+

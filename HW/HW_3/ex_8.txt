@@ -1,0 +1,38 @@
+#kverdey1:ex_8:excercise 8 answers
+Q1
+wget -O $HOME/Intro_to_Computing/HW/HW_3/  "https://blackboard.jhu.edu/bbcswebdav/pid-2761621-dt-content-rid-11056481_2/xid-11056481_2" 
+
+Q2
+see above
+
+Q3
+grep -i  "DATA" backup.bash
+grep -i "EXCERCISES" backup.bash
+grep -i "CODE" backup.bash
+grep -i "bashrc" backup.bash
+grep -i "bash_profile" backup.bash
+
+Q4
+grep -w "ATOM"
+
+Q5
+grep -w "ATOM" 1STN.pdb > FILE_1.dat
+
+Q6
+grep -w "LYS" FILE_1.dat
+grep -w "LYS" FILE_1.dat | grep -w "CA" FILE_1.dat
+grep -w "LYS" FILE_1.dat | grep -w "CA" FILE_1.dat > FILE_2.dat
+
+Q7
+sed -n 133p FILE_2.dat
+
+Q8
+pod > /dev/null 2>&1
+
+Q9
+ps -p $$
+
+Q10
+echo grep: search a given pattern >> $HOME/Intro_to_Computing/commands_unix.txt
+echo awk: scan input file >> $HOME/Intro_to_Computing/commands_unix.txt
+
