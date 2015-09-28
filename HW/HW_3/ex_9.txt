@@ -1,0 +1,50 @@
+#kverdey1:ex_9.txt:exercise 9, hw 3
+Q1
+sort composers
+
+Q2
+sort -u composers
+
+Q3
+cut -c6 switch-around > switch-around-column2
+cut -c1-2 switch-around > switch-around-column1
+paste switch-around-column2 switch-around-column1 > switch-around
+
+Q4
+sort -k7  FILE_2.dat
+
+Q5
+tr "DNA" "RNA" FILE_2.dat
+
+Q6
+sed s/RNA/PROTIEN FILE_2.dat
+
+Q7
+cat numbers > merged.txt
+cat words > merged.txt
+
+Q8
+cat words > merged5.txt
+cat words > merged5.txt
+cat words > merged5.txt
+cat words > merged5.txt
+cat words > merged5.txt
+
+Q9
+tr -d  numbers [:alpha:]
+
+Q10
+sed /s/1/one words | sed /s/2/two words | sed /s/3/ three words ...etc
+
+Q11
+sort -k10 temp-Baltimore.dat | tail -1 | cut -c 13-19
+
+Q12
+#I use git..
+git add ..
+git commit -m "end of HW3" 
+git push origin master
+
+Q13
+tar cvf HW_3.tar HW_3/
+
