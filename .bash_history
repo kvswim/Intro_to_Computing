@@ -134,3 +134,97 @@ python3.3
 python -V
 python3
 exit
+python3
+python3 ex_3_3.py
+python3 ex_2_3.py
+ls
+cd HW/HW_5
+ls
+python3 ex_2_3.py
+a=n
+del a
+print a
+python3
+exit
+ls
+cd CODE
+ls
+cd PYTHON
+ls
+vi header.py
+vi header.py
+vi header.py
+. header.py
+vi header.py
+vi header.py
+vi header.py
+. header.py
+python3 header.py
+vi header.py
+vi header.py
+vi header.py
+python3 header.py
+python3
+vi header.py
+vi header.py
+cd
+ls
+cd HW
+mkdir HW_5
+cd HW_5
+vi ex_1_1.py
+python3 ex_1_1.py
+python3
+vi ex_1_2.py
+vi ex_1_2.py
+vi ex_1_2.py
+python3 ex_1_2.py
+python3
+vi ex_2_1.py
+python3 ex_2_1.py
+vi ex_2_1.py
+python3
+cd
+git commit -m "started working on hw5"
+git add .
+git status
+git push origin master
+git status
+git commit -m "hw5"
+git push origin master
+cd HW/HW_5
+ls
+python3
+ls
+ls
+vi ex_2_2.py
+cd
+git status
+git add .
+git status
+cd HW/HW_5
+ls
+python3 ex_2_3.py
+vi ex_2_3.py
+python3 ex_2_3.py
+vi ex_2_3.py
+python3 ex_2_3.py
+vi ex_2_4.py
+vi ex_3_1.py
+python3 ex_3_1.py
+vi ex_3_2.py
+python3 ex_3_2.py
+ls
+vi ex_2_2.py
+vi ex_2_1.py
+ls
+tar -cvf HW_5.tar .
+ls
+cd
+ls
+git status
+git add .
+git commit -m "HW5 finished"
+git push origin master
+exit
+python3
