@@ -299,3 +299,14 @@ git add HW/HW_7
 git commit -m "hw7"
 git push origin master
 exit
+git stash
+git stash drop
+git pull
+git pull origin master
+git status
+git add HW/HW_8
+git commit -m "HW_8"
+git pull
+git pull origin master
+git status
+exit
