@@ -1,0 +1,10 @@
+Title: Neoadjuvant 5-FU or Capecitabine Plus Radiation
+With or Without Oxaliplatin in Rectal Cancer
+Patients: A Phase III Randomized Clinical Trial
+
+Reference: http://jnci.oxfordjournals.org/content/107/11/djv248.full.pdf+html
+
+Data: Ages of people, types of treatment recieved, outcome
+
+Analysis: Display data that shows sphincter sparing vs nonsphincter sparing 
+patients with different types of treatment.

@@ -228,3 +228,74 @@ git commit -m "HW5 finished"
 git push origin master
 exit
 python3
+cd HW/HW_5
+ls
+vi ex_3_2.py
+vi ex_3_1.py
+vi ex_2_4.py
+vi ex_3_2.py
+cd
+cd HW/HW_6
+ls
+tar cvf HW_6.tar .
+cd
+git status
+git add .
+git pull
+git pull origin master
+git commit -m "hw6"
+git push origin master
+exit
+cd
+ls
+cd HW
+mkdir HW_7
+cd HW_7
+python3
+python3 stats.py 1 2 3
+python3 stats.py 1 2 3
+python3 stats.py 1 2 3
+python3
+python3
+python3
+python3
+python3j
+python3
+python3
+python3 eg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+python3 eeg.py
+git status
+git add HW_7
+git add /HW_7
+git add HW_7/
+git add HW/HW_7
+git commit -m "hw7"
+git push origin master
+exit
